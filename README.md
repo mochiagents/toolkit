@@ -241,7 +241,7 @@ Contributions are welcome! Please feel free to submit pull requests, report bugs
 
 ## 🔗 Related Projects
 
-- [Mochi Worker Agent](../worker/) - The main agent framework that uses these tools
+- [Mochi Worker Agent](https://github.com/mochiagents/worker) - The main agent framework that uses these tools
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) - The protocol specification
 
 ---
